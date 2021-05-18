@@ -2,7 +2,7 @@
 - 👀 I’m interested in multiplatform app development
 - 🦝 I'm courious and I also like web development, open-source robotics (ROS) and computer vision (openCV)
 - :money_with_wings: Unity development is paying my bills
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 💞️ I’m looking to collaborate on an app development project
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/eloicasamayor/) or at eloi.casamayor(at)gmail.com
 
