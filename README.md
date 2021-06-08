@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @eloicasamayor
-- 👀 I’m interested in multiplatform app development
-- 🦝 I'm courious and I also like web development, open-source robotics (ROS) and computer vision (openCV)
+- 👀 I’m interested in flutter apps development
 - :money_with_wings: At this time Unity development is paying my bills (well, not the concept, you know)
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
-- 💞️ I’m looking to collaborate on app development projects
+- 💞️ I’m looking for a job as a junior flutter dev.
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/eloicasamayor/) or at eloi.casamayor(at)gmail.com
 
 <!---
