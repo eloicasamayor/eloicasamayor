@@ -1,5 +1,5 @@
 👋 Hi, I’m @eloicasamayor
-<br>👀 I am a flutter enthusiast [Flutter](https://flutter.dev/) and I like web and software development in general.
+<br>👀 I am a [Flutter](https://flutter.dev/) enthusiast  and I like web and software development in general.
 <br>🥰 I’m **looking for a job** as a junior flutter dev.
 <br>🎮 I've been working for almost 5 years as a unity developer.
 <br>📫 You can reach me at eloi.casamayor@gmail.com or on [Linkedin](https://www.linkedin.com/in/eloicasamayor/)
